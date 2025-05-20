@@ -1,4 +1,4 @@
-Here’s an updated README for your Strung repository, including a section for your YouTube video and highlighting the features you described:
+![image](https://github.com/user-attachments/assets/e966200b-f25a-4435-b08c-1be24b30b43b)Here’s an updated README for your Strung repository, including a section for your YouTube video and highlighting the features you described:
 
 ---
 
@@ -33,7 +33,7 @@ Open the project in your preferred game engine (e.g., Unity or Unreal Engine, if
 
 Watch the gameplay and features in action:
 
-[![Strung Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Strung Demo]](https://www.youtube.com/watch?v=vE68A3WgqE8)
 
 _Replace YOUR_VIDEO_ID_HERE with your actual YouTube video ID._
 
