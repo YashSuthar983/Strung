@@ -24,7 +24,7 @@ cd Strung
 
 ## Usage
 
-Open the project in your preferred game engine (e.g., Unity or Unreal Engine, if applicable) and run the game to experience the parkour mechanics.
+Open in any unity ver above 2020.3.40.f1
 
 ## Demo Video
 
