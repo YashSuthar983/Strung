@@ -1,7 +1,3 @@
-Here’s an updated README for your Strung repository, including a section for your YouTube video and highlighting the features you described:
-
----
-
 # Strung
 
 Strung is a 3D parkour game built primarily in C#. It features dynamic movement mechanics such as climbing, sliding, various jump styles, pillar jumps, vault actions and multiple ledge climbing actions. Future updates are planned to include rope swinging and more advanced parkour moves.
