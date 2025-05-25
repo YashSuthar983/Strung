@@ -19,7 +19,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/YashSuthar983/Strung.git
 cd Strung
-# Add any additional setup instructions here (e.g., Unity/Unreal project setup)
 ```
 
 ## Usage
